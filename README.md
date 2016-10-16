@@ -13,3 +13,6 @@ Users have 3 different UI devices that they can use to input their constraints a
 	* Cashback
 	* Travel
 	* Daily
+	
+##Disclaimer
+This project was created in October 2016. Information is not guaranteed to be up to date. Please check individual companies' websites for most recent information on rewards, promotions, fees, rates, terms and conditions. Offers may vary based on individual profiles and credit reports.
