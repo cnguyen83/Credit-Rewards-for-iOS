@@ -1,4 +1,4 @@
-#README: Credit Rewards v1.0.0
+#README: Credit Rewards for iOS v1.0.0
 
 This is a basic iOS app that lets users select their constraints and preferences. Given those constraints and preferences, the app then presents users with the credit card best suited to their needs.
 
